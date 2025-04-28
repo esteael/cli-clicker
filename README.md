@@ -1,2 +1,1 @@
-# cli-clicker
-A programming project for my python class.
+![CLI Clicker Logo](https://raw.githubusercontent.com/esteael/cli-clicker/main/assets/cli-clicker%20logo.png)
